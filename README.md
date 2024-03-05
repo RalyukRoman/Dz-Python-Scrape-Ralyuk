@@ -1,4 +1,4 @@
-# Books to Scrape parser
+# Books to Scrape | parser
 
 ## Utils
 

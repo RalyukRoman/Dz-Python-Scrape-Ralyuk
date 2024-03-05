@@ -1,4 +1,4 @@
-# Quotees to scrape parser
+# Books to Scrape parser
 
 ## Utils
 
@@ -11,5 +11,6 @@
 
 ## Sites
 - https://parsel.readthedocs.io/en/latest/
-- 
+- https://requests.readthedocs.io/en/latest/
 - https://curlconverter.com/
+- https://selectorgadget.com/
